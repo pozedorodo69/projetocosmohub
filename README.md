@@ -1,2 +1,0 @@
-# projetocosmohub
-sim
